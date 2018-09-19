@@ -1,5 +1,5 @@
 ---
-date: "2018-09-29T011:12:16+00:00"
+date: 2018-09-19 11:43
 draft: false
 tags: 
 title: "Texting out iOS updates for this Gatsby blogger deployed on Netlify or whatever"
